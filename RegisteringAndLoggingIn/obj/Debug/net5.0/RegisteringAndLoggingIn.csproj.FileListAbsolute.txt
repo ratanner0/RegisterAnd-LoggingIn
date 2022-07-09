@@ -1,0 +1,16 @@
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\bin\Debug\net5.0\RegisteringAndLoggingIn.exe
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\bin\Debug\net5.0\RegisteringAndLoggingIn.deps.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\bin\Debug\net5.0\RegisteringAndLoggingIn.runtimeconfig.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\bin\Debug\net5.0\RegisteringAndLoggingIn.runtimeconfig.dev.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\bin\Debug\net5.0\RegisteringAndLoggingIn.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\bin\Debug\net5.0\RegisteringAndLoggingIn.pdb
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\obj\Debug\net5.0\RegisteringAndLoggingIn.csproj.AssemblyReference.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\obj\Debug\net5.0\RegisteringAndLoggingIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\obj\Debug\net5.0\RegisteringAndLoggingIn.AssemblyInfoInputs.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\obj\Debug\net5.0\RegisteringAndLoggingIn.AssemblyInfo.cs
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\obj\Debug\net5.0\RegisteringAndLoggingIn.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\obj\Debug\net5.0\RegisteringAndLoggingIn.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\obj\Debug\net5.0\refint\RegisteringAndLoggingIn.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\obj\Debug\net5.0\RegisteringAndLoggingIn.pdb
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\obj\Debug\net5.0\RegisteringAndLoggingIn.genruntimeconfig.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\RegisteringAndLoggingIn\obj\Debug\net5.0\ref\RegisteringAndLoggingIn.dll
